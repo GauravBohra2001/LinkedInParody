@@ -1,0 +1,22 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+venv/
+
+# Ignore sensitive configuration
+backend/config.py
+
+# Ignore Node.js modules
+frontend/node_modules/
+
+# Ignore build files
+frontend/.next/
+
+# Node.js
+node_modules/
+.next/
+
+# Other
+.env
+*.env
+.DS_Store
