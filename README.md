@@ -130,6 +130,9 @@ A special thank you to the organizers of the Brainrot Jia SEED Hackathon for pro
 
 ---
 
+![Screenshot 2024-12-24 234746](https://github.com/user-attachments/assets/1ea674ea-f13d-4b00-b6d4-7fde15997aa9)
+
+
 ## 🚨 Disclaimer  
 
 This project is entirely satirical and created for humor purposes. Any resemblance to real-life LinkedIn posts or corporate culture is purely coincidental... or is it? 😉
