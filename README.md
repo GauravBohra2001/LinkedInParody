@@ -131,6 +131,11 @@ A special thank you to the organizers of the Brainrot Jia SEED Hackathon for pro
 ---
 
 ![Screenshot 2024-12-24 234746](https://github.com/user-attachments/assets/1ea674ea-f13d-4b00-b6d4-7fde15997aa9)
+![image](https://github.com/user-attachments/assets/708d39de-db33-4081-9ee2-470ead2e1c37)
+![image](https://github.com/user-attachments/assets/f2fd8f0e-0642-4655-8639-db6d7c9b1053)
+![image](https://github.com/user-attachments/assets/4bd761dc-09d0-4c9e-b396-3eb00d679f4d)
+![image](https://github.com/user-attachments/assets/1e4f8fcf-dd5b-4ee0-b4cf-c80c79115735)
+![image](https://github.com/user-attachments/assets/51b842ca-ba7f-4750-9686-8fe262b9a4ac)
 
 
 ## 🚨 Disclaimer  
